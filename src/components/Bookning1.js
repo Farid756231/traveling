@@ -6,7 +6,7 @@ return (
 
 <div className="form">
     <form>
-       <label>Fname</label>
+       <label>name</label>
        <input type="text"></input>
        <label>Lname</label>
        <input type="text"></input>
