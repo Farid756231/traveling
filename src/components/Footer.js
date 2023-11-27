@@ -32,7 +32,7 @@ return(
                     <FaFacebook size={30} style={{color:'#ffffff', marginRight:'1rem'}} />
                     <FaTwitter size={30} style={{color:'#ffffff', marginRight:'1rem'}} />
                     <FaLinkedin size={30} style={{color:'#ffffff', marginRight:'1rem'}} />
-                    <Link to='/contact'>Contact</Link>
+                    <Link to='http://localhost:3000'>Pandahub</Link>
 
                 </div>
                
